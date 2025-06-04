@@ -12,7 +12,7 @@ nest_asyncio.apply()
 
 # === CONFIG ===
 BOT_TOKEN = os.getenv("BOT_TOKEN")
-CHANNEL_ID = -1002577038744
+CHANNEL_ID = -1002528975502
 
 bot = Bot(BOT_TOKEN)
 
